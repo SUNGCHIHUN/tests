@@ -6,5 +6,8 @@ public class Calc {
 	}
 
 	// 뺄셈모듈
-
+	public int minus(int a, int b) {
+		return a-b;		
+	}
+	
 }
